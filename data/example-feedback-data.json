@@ -1,0 +1,62 @@
+[
+  {
+    "user_id": "U10234",
+    "message": "Hi, I'm trying to access the 'Introduction to Statistics' course, but it keeps saying 'Content Unavailable.' Is there an issue with the course?"
+  },
+  {
+    "user_id": "U20345",
+    "message": "I think there's an error in Lesson 5 of the Algebra course. The solution provided doesn't match the problem."
+  },
+  {
+    "user_id": "U30456",
+    "message": "Hello, I havent recieved my certificate after completing the 'Basic HTML' course. Could you please help?"
+  },
+  {
+    "user_id": "U40567",
+    "message": "The video lectures are not loading on my Ipad. They was working fine yesterday. Any ideas?"
+  },
+  {
+    "user_id": "U50678",
+    "message": "I was billed twice for my subscribtion this month Can someone lpls look into this?"
+  },
+  {
+    "user_id": "U60789",
+    "message": "Suggestion: It would be great to have a course on advanced Fotoshop techniques."
+  },
+  {
+    "user_id": "U70890",
+    "message": "I'm experincing a lag during live webinars. My internet is stable, so I think it might be on your end."
+  },
+  {
+    "user_id": "U80901",
+    "message": "I can't submit my assignment for the 'Creative Writing' course. The submit button isn't working."
+  },
+  {
+    "user_id": "U91012",
+    "message": "Is there a way to reset my progress in a course? I wants to start over from the beginning."
+  },
+  {
+    "user_id": "U10123",
+    "message": "The quiz in Module 3 doesn't record my answers. I've tried multiple times."
+  },
+  {
+    "user_id": "U11134",
+    "message": "I founded a broken link in the resources section of the 'Project Management' course."
+  },
+  {
+    "user_id": "U12145",
+    "message": "Urgent: My account was deactiveted without warning. I need access restored as soon as possible."
+  },
+  {
+    "user_id": "U13156",
+    "message": "I'm loving the 'Beginner's Yoga' course! Just wanted to say thanks to the team."
+  },
+  {
+    "user_id": "U14167",
+    "message": "I have a query regarding the grading criteria for peer-reviewed assignments. Where can I find more details?"
+  },
+  {
+    "user_id": "U15178",
+    "message": "The audio and video are out of sync in Lecture 7 of the 'Digital Marketing' course."
+  }
+]
