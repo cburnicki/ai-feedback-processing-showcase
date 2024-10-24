@@ -6,9 +6,9 @@ from db import escalations_db, feedback_db, tasks_db
 
 
 @tool("Save Task Tool")
-def create_task_tool(task_description: str, user_id: Optional[str] = None):
-    """Create a task that will be reviewed and solved later by a team member"""
-    tasks_db.insert({"task": task_description, "user_id": user_id})
+def create_ticket_tool(ticket_description: str, user_id: Optional[str] = None):
+    """Create a ticket in the ticket system that will be reviewed and solved later by a team member"""
+    tasks_db.insert({"task": ticket_description, "user_id": user_id})
     return "Task saved"
 
 
