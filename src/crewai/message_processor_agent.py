@@ -9,7 +9,6 @@ def create_message_processing_agent():
         goal="Understand user feedback, decide what action to take and apply the tool to take the action.",
         backstory="You are an experienced customer support agent.",
         verbose=True,
-        llm = 'ollama/llama3',
     )
     
 

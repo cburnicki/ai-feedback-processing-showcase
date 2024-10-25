@@ -2,7 +2,7 @@ from tinydb import TinyDB
 
 
 def _get_db(name: str) -> TinyDB:
-    return TinyDB(f"data/db/crewai_{name}.json")
+    return TinyDB(f"data/db/ell_{name}.json")
 
 
 tasks_db = _get_db("tasks")
