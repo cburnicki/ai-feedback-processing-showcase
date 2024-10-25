@@ -1,6 +1,6 @@
-from crewai import Agent, Crew, Task
-
 from tools import create_feedback_note_tool, create_ticket_tool, escalate_issue_tool
+
+from crewai import Agent, Crew, Task
 
 
 def create_message_processing_agent():
@@ -9,6 +9,7 @@ def create_message_processing_agent():
         goal="Understand user feedback, decide what action to take and apply the tool to take the action.",
         backstory="You are an experienced customer support agent.",
         verbose=True,
+        llm = 'ollama/llama3',
     )
     
 

@@ -3,7 +3,6 @@ import json
 from db import truncate_all_data
 from message_processor_agent import create_message_processor_crew
 
-# litellm.set_verbose = True
 
 def main():
     truncate_all_data()
